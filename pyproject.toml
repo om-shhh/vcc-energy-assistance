@@ -1,0 +1,14 @@
+[project]
+name = "vcc-energy-assistance"
+version = "0.1.0"
+requires-python = ">=3.12"
+dependencies = [
+    "cartopy>=0.26.0",
+    "ipykernel>=7.4.0",
+    "jupyterlab>=4.6.4",
+    "matplotlib>=3.11.2",
+    "pandas>=3.1.0",
+    "pip>=26.2.2",
+    "scipy>=1.18.1",
+    "seaborn>=0.13.2",
+]
